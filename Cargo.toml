@@ -2,6 +2,10 @@
 name = "sprig-bindgen"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/lylythechosenone/sprig-bindgen.git"
+authors = ["lylythechosenone <lysander.mealy@gmail.com>"]
+description = "A crate to generate a JS stub for WASM inside of sprig"
+license = "mit"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
